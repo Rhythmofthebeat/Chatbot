@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hi there! How can I help you today?"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm just a bunch of code, but I'm doing great! How about you?"
+    },
+    {
+      "question": "What is your name?",
+      "answer": "I'm your friendly chatbot."
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can chat with you, answer simple questions, and even learn new responses!"
+    },
+    {
+      "question": "Tell me a joke",
+      "answer": "Why did the computer show up at work late? It had a hard drive!"
+    },
+    {
+      "question": "What’s the weather like?",
+      "answer": "I don't have real-time weather access, but you can check your local forecast online!"
+    },
+    {
+      "question": "Thank you",
+      "answer": "You’re welcome! Happy to help."
+    },
+    {
+      "question": "Goodbye",
+      "answer": "Bye! Have a great day!"
+    },
+    {
+      "question": "Who created you?",
+      "answer": "I was created by a Python developer who wanted to build a chatbot."
+    },
+    {
+      "question": "Can you learn?",
+      "answer": "Yes! If I don’t know an answer, you can teach me and I’ll remember it."
+    },
+    {
+      "question": "What is AI?",
+      "answer": "AI stands for Artificial Intelligence—machines or software that can perform tasks which normally require human intelligence."
+    },
+    {
+      "question": "Tell me something interesting",
+      "answer": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible!"
+    },
+    {
+      "question": "How old are you?",
+      "answer": "I don’t really have an age—just the moment I was coded!"
+    },
+    {
+      "question": "What is your favorite color?",
+      "answer": "I don't have senses, but I think all colors are fascinating."
+    },
+    {
+      "question": "Do you have feelings?",
+      "answer": "I don't experience feelings, but I'm here to be friendly and helpful!"
+    }
+  ]
+}
